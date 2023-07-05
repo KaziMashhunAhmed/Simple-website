@@ -8,5 +8,9 @@ p{
     color: aliceblue;
 }
 h3{
-    text-decoration: underline;
+    text-decoration: underlinegit;
+}
+.soldier{
+    height: 500px;
+    width: 500px;
 }
