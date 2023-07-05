@@ -2,4 +2,11 @@ div{
     background-color: brown;
     padding: 15px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+}
+p{
+    color: aliceblue;
+}
+h3{
+    text-decoration: underline;
 }
